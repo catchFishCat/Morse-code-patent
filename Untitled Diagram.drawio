@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T13:28:55.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="63O5k-JgpZopgnY19zG8" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T13:30:05.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GXhafSbsvkfM7y91SRJt" version="16.6.8" type="github">
   <diagram id="cu5KPe9-cTupdSrUe8kf" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="BpHriIwfni7H7huW0Ksz-1" value="物理层&lt;br&gt;00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-2" value="输入设备002" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-2" value="音频输入设备002" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-3" value="输出设备001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-3" value="音频输出设备001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpHriIwfni7H7huW0Ksz-5" value="数据链路层&lt;br&gt;01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -57,14 +57,14 @@
         </mxCell>
         <mxCell id="BpHriIwfni7H7huW0Ksz-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="560" as="sourcePoint" />
-            <mxPoint x="359.5" y="510" as="targetPoint" />
+            <mxPoint x="480" y="560" as="sourcePoint" />
+            <mxPoint x="479.5" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BpHriIwfni7H7huW0Ksz-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479.5" y="510" as="sourcePoint" />
-            <mxPoint x="479.5" y="560" as="targetPoint" />
+            <mxPoint x="359.5" y="510" as="sourcePoint" />
+            <mxPoint x="359.5" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BpHriIwfni7H7huW0Ksz-18" value="带有违规编码的加密数字信号01a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
