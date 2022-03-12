@@ -1,50 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:32:29.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tYWzmqGNjoPlU74SwGtN" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T10:35:08.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1MccudjiEJlqdQT-uiM_" version="17.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="VGB2HYdwKtZJdSCUuBFd-0">
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_bJPs9jb8SXMsJUFnid-0" target="Z_bJPs9jb8SXMsJUFnid-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="音频信号输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="246" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-0" value="摩尔斯电码音频模拟信号&lt;br&gt;101" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VGB2HYdwKtZJdSCUuBFd-0" target="VGB2HYdwKtZJdSCUuBFd-1">
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_bJPs9jb8SXMsJUFnid-2" target="Z_bJPs9jb8SXMsJUFnid-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-0" value="摩尔斯电码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="246" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-2" value="摩尔斯电码字符串数字信号&lt;br&gt;102" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VGB2HYdwKtZJdSCUuBFd-1" target="VGB2HYdwKtZJdSCUuBFd-3">
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_bJPs9jb8SXMsJUFnid-3" target="Z_bJPs9jb8SXMsJUFnid-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-1" value="字符串" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="246" y="330" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-3" value="ASCII码字符串数字信号&lt;br&gt;103" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-3" value="控制信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="246" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.614;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_bJPs9jb8SXMsJUFnid-4" target="Z_bJPs9jb8SXMsJUFnid-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VGB2HYdwKtZJdSCUuBFd-8" target="VGB2HYdwKtZJdSCUuBFd-9">
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.57;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_bJPs9jb8SXMsJUFnid-4" target="Z_bJPs9jb8SXMsJUFnid-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-8" value="传感器信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="462" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-4" value="符合要求？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="280" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VGB2HYdwKtZJdSCUuBFd-9" target="VGB2HYdwKtZJdSCUuBFd-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-7" value="抛弃信号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="380" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-9" value="字符串" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="462" y="330" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-8" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VGB2HYdwKtZJdSCUuBFd-10" target="VGB2HYdwKtZJdSCUuBFd-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-10" value="摩尔斯电码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="462" y="260" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VGB2HYdwKtZJdSCUuBFd-11" value="音频信号输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="462" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="Z_bJPs9jb8SXMsJUFnid-9" value="去掉报头和报尾的ASCII码字符串数字信号&lt;br&gt;104" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="380" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
