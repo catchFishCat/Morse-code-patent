@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T12:03:30.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aElzwAcsSLvKiWq3gf21" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T01:35:37.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FxOA-Ox2jIKkOce-XnbY" version="17.1.2" type="github">
   <diagram id="cu5KPe9-cTupdSrUe8kf" name="Page-1">
-    <mxGraphModel dx="1038" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="69" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
             <mxPoint x="359.5" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-18" value="带有违规编码的加密数字信号01a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-18" value="数字信号&lt;br&gt;01a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpHriIwfni7H7huW0Ksz-19" value="摩尔斯电码音频模拟信号00a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -76,19 +76,19 @@
         <mxCell id="BpHriIwfni7H7huW0Ksz-22" value="摩尔斯电码音频模拟信号00b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-23" value="带有违规编码的加密数字信号01b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-23" value="数字信号&lt;br&gt;01b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-24" value="加密数字信号02a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-24" value="数据&lt;br&gt;02a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-26" value="加密数字信号02b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-26" value="数据&lt;br&gt;02b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-27" value="加密数字信号03a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-27" value="数据&lt;br&gt;03a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpHriIwfni7H7huW0Ksz-28" value="加密数字信号03b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BpHriIwfni7H7huW0Ksz-28" value="数据&lt;br&gt;03b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
